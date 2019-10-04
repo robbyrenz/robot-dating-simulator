@@ -1,0 +1,12 @@
+.card {
+    transition: all 0.25s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    border: 8px solid #e9ecef;
+}
+
+/* .stretched-link {
+    display: none;
+} */
